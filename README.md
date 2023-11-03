@@ -38,11 +38,11 @@ Neste projeto, aprendemos a utilizar o flexbox para posicionar os elementos em u
 Segue os layouts de resposividade, desenvolvido pela equipe da Alura: <br>
 
 <li><strong>Layout - Mobile</strong> <br><br>
-  <p align="center"> <img width="20%" src="layout/layout-mobile.png" alt="alura-books-mobile"></p>
+  <p align="center"> <img width="20%" src="layouts/alurinha-layout-mobile.png" alt="alura-books-mobile"></p>
 
   <hr> 
 <li>Layout - Desktop <br><br>
-   <p align="center"> <img width="50%" src="layout/layout-desktop.png" alt="desktop"></p>
+   <p align="center"> <img width="50%" src="layouts/alurinha-layout-desktop.png" alt="desktop"></p>
 
 
 ## :memo: Licença
