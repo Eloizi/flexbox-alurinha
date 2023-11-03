@@ -1,0 +1,1 @@
+projeto antes de ter sido utilizado o flex-box para a organização dos elementos na página
