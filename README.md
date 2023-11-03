@@ -31,25 +31,18 @@ Projeto desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 link do projeto: <a href="https://eloizi.github.io/flexbox-alurinha/" alt="link para acessar o site">Clique aqui para ver o projeto finalizado</a><br><br>
-Neste projeto, tivemos contato com muitas tecnologias e técnicas que ampliaram o nosso conhecimento. Iniciamos o projeto com a estilização do site na perspectiva de um dispositivo móvel, e assim fomos evoluindo, modificando as classes para que o site, ao final, atendesse a maioria dos dispositivos, tornando-o responsivo. Ao longo do curso, foram realizadas algumas revisões em relação a conceitos importantes, tais como: flexbox, listas, âncoras, pseudo classes e também combinadores no CSS.
+Neste projeto, aprendemos a utilizar o flexbox para posicionar os elementos em uma página web. Compreendemos como e quando utilizar as diversas propriedades do flexbox. Através de vários testes e demonstrações, entendemos como o uso do flexbox pode substituir o uso de floats, inline e inline-block. Ao longo desse estudo, desenvolvemos o que, no final, se tornou um site responsivo, utilizando exclusivamente as propriedades do flexbox.
 
 
-Segue abaixo as implementações dos layouts de resposividade, seguindo o projeto desenvolvido no FIgma pela equipe da Alura: <br>
 
-<li><strong>Mobile (min-width; 428px);</strong> <br><br>
-  <p align="center"> <img width="20%" src="img/img_mobile.png" alt="alura-books-mobile"></p>
- 
- <hr> 
-<li>Tablet (min-widtth: 1024px); <br><br>
-   <p align="center"> <img width="30%" src="img/img_tablet.png" alt="alura-books-mobile"></p>
-  
+Segue os layouts de resposividade, desenvolvido pela equipe da Alura: <br>
+
+<li><strong>Layout - Mobile</strong> <br><br>
+  <p align="center"> <img width="20%" src="layout/layout-mobile.png" alt="alura-books-mobile"></p>
+
   <hr> 
-<li>Desktop (min-width: 1728px). <br><br>
-   <p align="center"> <img width="50%" src="img/img_desktop.png" alt="alura-books-mobile"></p>
-
-
-
-<!--<br>Para visualizar a versão atual do projeto é só<a href="https:/.github.io/alura-books/"> "Clicar aqui".</a>🚀 -->
+<li>Layout - Desktop <br><br>
+   <p align="center"> <img width="50%" src="layout/layout-desktop.png" alt="desktop"></p>
 
 
 ## :memo: Licença
